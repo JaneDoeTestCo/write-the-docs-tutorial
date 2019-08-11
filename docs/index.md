@@ -21,4 +21,4 @@ Follow these general instructions to make a website with _GitHub Pages_.
 
 Get more details in the [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/).
 
-![this is an image](https://www.guidewire.com/sites/default/files/media/images/products/digital/product-image-enterpriseengage-900x440.png)
+![this is an image](https://www.verizon.com/cs/groups/public/documents/adacct/chromebook-cut-art-v1.png)
